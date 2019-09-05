@@ -2,11 +2,11 @@
 
 ## Install
 ```
-$ pip install git+....
+$ pip install git+https://github.com/matanweks/FlightTello
 ```
 or
 ```
-$ git clone .....
+$ git clone https://github.com/matanweks/FlightTello.git
 $ 
 $ pip install -e ./TelloControl
 ```
