@@ -2,6 +2,7 @@ from TelloControl.tello import Tello
 import cv2
 import numpy as np
 
+
 def fly():
     tello = Tello(host='192.168.10.1', port=8889, client_socket=None, enable_exceptions=True, retry_count=3)
     tello.connect()
