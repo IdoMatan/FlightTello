@@ -15,9 +15,9 @@ def read(filename):
 requirements = [
     'numpy==1.15.4',
     'opencv-python==3.4.3.18',
-    'pygame==1.9.4'
+    'pygame==1.9.4',
     'scipy>=1.1.0',
-    'matplotlib>=3.1.1'
+    'matplotlib>=3.1.1',
     'time'
 ]
 
