@@ -17,8 +17,8 @@ requirements = [
     'opencv-python==3.4.3.18',
     'pygame==1.9.4',
     'scipy>=1.1.0',
-    'matplotlib>=3.1.1',
-    'time'
+    'matplotlib>=3.1.1'
+    # , 'time'
 ]
 
 requirements_dev = [
