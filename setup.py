@@ -13,7 +13,7 @@ def read(filename):
 
 
 requirements = [
-    'numpy==1.15.4',
+    'numpy==1.22.0',
     'opencv-python==3.4.3.18',
     'pygame==1.9.4',
     'scipy>=1.1.0',
